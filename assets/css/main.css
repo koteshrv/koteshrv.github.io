@@ -473,6 +473,10 @@ a img {
     }
 }
 
+.center-heading {
+    text-align: center;
+}
+
 .user-details {
     text-align: center;
     margin: 5px auto
